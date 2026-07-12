@@ -75,7 +75,7 @@ The UI is implemented using JSP + JSTL with jQuery-based dynamic sections, while
 ## 📂 Project Structure
 
 ```
-Online_Book_Store.-main/
+Online_Book_Store/
 ├── README.md                          # Primary project documentation
 ├── README.txt                         # Deployment notes and implemented features list
 ├── build.xml                          # Ant build configuration
